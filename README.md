@@ -21,6 +21,6 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ```
 
-![figure](https://raw.githubusercontent.com/nimetapaydin/Patika-Objected-Oriented-Programming/main/figure/Ödev - Üniversite Yönetim Sistemi.png)
+![figure](https://github.com/nimetapaydin/Patika-Objected-Oriented-Programming/blob/main/figure/%C3%96dev%20-%20%C3%9Cniversite%20Y%C3%B6netim%20Sistemi.png)
 
 ```
