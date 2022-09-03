@@ -19,8 +19,6 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ```
 
-```
 
 ![figure](https://raw.githubusercontent.com/nimetapaydin/Patika-Objected-Oriented-Programming/main/figure/odev-universiteyonetimSistemi.png)
-
-```
+        
