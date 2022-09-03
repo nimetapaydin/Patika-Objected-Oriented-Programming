@@ -22,3 +22,11 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ![figure](https://raw.githubusercontent.com/nimetapaydin/Patika-Objected-Oriented-Programming/main/figure/odev-universiteyonetimSistemi.png)
         
+
+# Proje içi Patika linki
+
+[Patika](https://www.patika.dev/tr)
+
+# License
+
+[MIT](https://choosealicense.com/licenses/mit/)
